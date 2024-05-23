@@ -15,7 +15,8 @@ const users = [
 
 const Users = () => {
     return (
-        <Box sx={{
+        <Box 
+        sx={{
             width: "calc(100% - 100px)",
             margin: 'auto',
             marginTop: '100px'
